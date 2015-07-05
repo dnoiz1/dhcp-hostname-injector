@@ -33,7 +33,7 @@ wpa_passphrase My Target Network Name > ./wpa_supplicant.conf
 sudo ./wpa_dhcp.sh wlan0
 ```
 
-### Dependancies
+### Dependencies
 ```console
 sudo apt-get install wireless-tools scapy
 ```
